@@ -12,6 +12,7 @@ Get hired as an AI Automation Engineer by building real projects every day.
 | Day | Topic | Project |
 |-----|-------|---------|
 | Day 1 | OOP - Classes & Objects | Employee class with appraisal method |
+| Day 2 | OOP – Constructors, Methods & Special Methods | Planet Class with input validation, orbit() method, and __str__() method |
 
 ## 📌 Rules
 - Code minimum 2 hours every day
