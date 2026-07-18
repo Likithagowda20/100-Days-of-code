@@ -109,4 +109,4 @@ def create_spend_chart(categories):
         if i < longest - 1:
             output += "\n"
 
-    return output
+    return output 
