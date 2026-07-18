@@ -58,7 +58,6 @@ class Category:
 def create_spend_chart(categories):
     spent = []
 
-    # Find spending for each category
     for category in categories:
         total = 0
 
@@ -68,10 +67,8 @@ def create_spend_chart(categories):
 
         spent.append(total)
 
-    # Find total spending
     total_spent = sum(spent)
 
-    # Calculate percentages
     percentages = []
 
     for amount in spent:
@@ -81,7 +78,6 @@ def create_spend_chart(categories):
 
     output = "Percentage spent by category\n"
 
-    # Create vertical bar chart
     for level in range(100, -1, -10):
         output += f"{level:>3}|"
 
@@ -93,17 +89,14 @@ def create_spend_chart(categories):
 
         output += " \n"
 
-    # Horizontal line
     output += "    " + "-" * (len(categories) * 3 + 1) + "\n"
 
-    # Find longest category name
     longest = 0
 
     for category in categories:
         if len(category.name) > longest:
             longest = len(category.name)
 
-    # Print category names vertically
     for i in range(longest):
         output += "     "
 
