@@ -16,6 +16,7 @@ Get hired as an AI Automation Engineer by building real projects every day.
 | Day 3 | OOP - Multiple Classes, datetime, list operations | Email Simulator ✅ |
 | Day 4 | Lists of Dicts, String formatting, Bar charts | Budget App ✅ |
 | Day 5 | Properties, Getters, Setters, Decorators | Salary Tracker ✅ |
+| Day 6 | Prompt Engineering | Micro Prompt Engineering - FreeAcademy.AI ✅ |
 
 ## 📌 Rules
 - Code minimum 2 hours every day
