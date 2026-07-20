@@ -17,6 +17,7 @@ Get hired as an AI Automation Engineer by building real projects every day.
 | Day 4 | Lists of Dicts, String formatting, Bar charts | Budget App ✅ |
 | Day 5 | Properties, Getters, Setters, Decorators | Salary Tracker ✅ |
 
+
 ## 📌 Rules
 - Code minimum 2 hours every day
 - Push to GitHub every single day
