@@ -18,7 +18,7 @@ Get hired as an AI Automation Engineer by building real projects every day.
 | Day 5 | Properties, Getters, Setters, Decorators | Salary Tracker ✅ |
 | Day 6 | Prompt Engineering | Micro Prompt Engineering - FreeAcademy.AI ✅ |
 | Day 7 | Object-Oriented Data Control & Validation | Game characther Tracker ✅ |
-
+| Day 8 | Inheritance, Custom Exceptions, List Comprehension | Media Catalogue ✅ |
 
 ## 📌 Rules
 - Code minimum 2 hours every day
